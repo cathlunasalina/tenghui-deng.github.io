@@ -80,11 +80,11 @@ tex_posts:
   layout: post               # 生成文章用的 layout
 
 scholar:
-  last_name: Li
-  first_name: [Haibo]
+  last_name: Deng
+  first_name: [Tenghui]
 
   style: citesty
-  locale: en
+  locale: cn
 
   source: /assets/
   bibliography: ref.bib
